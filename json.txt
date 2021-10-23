@@ -1,0 +1,13 @@
+
+[
+    {
+        'name':'ankit',
+        'age':19,
+        'location':'india',
+        'jobTitle':false,
+        'study':true,
+        'collage':'SBS',
+    }
+
+
+]
